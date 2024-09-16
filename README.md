@@ -15,6 +15,6 @@ DS1307 rtc(0x68,6,7,&Wire1);
 
 ### Other Resources
 
-[![P]Bonezegei_DS1307 library by Bonezegei](https://github.com/bonezegei/Bonezegei_DS1307)
+[Bonezegei_DS1307 library by Bonezegei](https://github.com/bonezegei/Bonezegei_DS1307)
 
 #Denics Devices
